@@ -1,6 +1,6 @@
 # this is a display of my work flow in this quantative competition. The work flow can be checked here.
 
-![image]()
+![image](github.com/watermelon-Bruce/Quant_competition/blob/main/work_flow.png)
 
 # project structure
 
